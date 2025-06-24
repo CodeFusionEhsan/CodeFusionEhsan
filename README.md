@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ehsan Saleem
 
 🚀 **Full Stack Developer & AI Expert**  
-Bringing NLP-powered magic to websites & apps
+Bringing AI-powered magic to websites & apps
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🌟 17 years young & passionate about building the future with AI & Web3  
-- 🧠 Specialized in integrating Natural Language Processing (NLP) into web applications  
+- 🧠 Focused on integrating AI into web applications  
 - 💡 Obsessed with Machine Learning, AI, and automating the boring stuff  
 - 🎨 I blend tech with creativity for interfaces that are both powerful and delightful
 
@@ -27,13 +27,13 @@ Bringing NLP-powered magic to websites & apps
 ## 🌐 Notable Projects
 
 - 🎥 [VidWiz Video Platform](https://vidwiz-video.vercel.app)  
-  *AI-powered video content hub with NLP search.*
+  *AI-powered video content hub with simple video editing (overlay) feature.*
 
 - 💹 [Tradex Trading App](https://tradex-tau.vercel.app)  
   *Modern trading dashboard with real-time AI insights.*
 
 - 👨‍💻 [Frontend Coders Hangout](https://frontend-codershangout.vercel.app)  
-  *Community platform for frontend devs, with AI-driven Q&A.*
+  *Community platform for devs, with code editor to write and publish code.*
 
 ---
 
@@ -46,7 +46,7 @@ Bringing NLP-powered magic to websites & apps
 ---
 
 > ⚡️ Fun Fact:  
-> I’m only 17, but already obsessed with building smarter, friendlier, & more useful AI for the web!
+> I’m only 17, but already obsessed with building smarter, friendlier, & more useful applications for the web!
 
 ---
 
