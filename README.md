@@ -26,8 +26,8 @@ Bringing AI-powered magic to websites & apps
 
 ## 🌐 Notable Projects
 
-- 🎥 [VidWiz Video Platform](https://vidwiz-video.vercel.app)  
-  *AI-powered video content hub with simple video editing (overlay) feature.*
+- 🎥 [Taskify Project Management](https://taskify-manager-project.vercel.app)  
+  *AI-powered Project Management Web App To Manage Teams & Clients, made especially for Freelancers*
 
 - 💹 [Tradex Trading App](https://tradex-tau.vercel.app)  
   *Modern trading dashboard with real-time AI insights.*
