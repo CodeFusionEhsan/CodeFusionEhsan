@@ -7,7 +7,7 @@ Bringing AI-powered magic to websites & apps
 
 ## 🧑‍💻 About Me
 
-- 🌟 17 years young & passionate about building the future with AI & Web3  
+- 🌟 17 years young & passionate about building the future with AI & Web  
 - 🧠 Focused on integrating AI into web applications  
 - 💡 Obsessed with Machine Learning, AI, and automating the boring stuff  
 - 🎨 I blend tech with creativity for interfaces that are both powerful and delightful
