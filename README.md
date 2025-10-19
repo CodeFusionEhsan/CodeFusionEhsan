@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ehsan Saleem
 
-🚀 **Full Stack Developer & AI Expert**  
+🚀 **Full Stack Web Developer & Programmer**  
 Bringing AI-powered magic to websites & apps
 
 ---
@@ -27,10 +27,10 @@ Bringing AI-powered magic to websites & apps
 ## 🌐 Notable Projects
 
 - 🎥 [Taskify Project Management](https://taskify-manager-project.vercel.app)  
-  *AI-powered Project Management Web App To Manage Teams & Clients, made especially for Freelancers*
+  *AI-powered Project Management Web App To Manage Teams & Clients, made especially for Freelancers.*
 
-- 💹 [Tradex Trading App](https://tradex-tau.vercel.app)  
-  *Modern trading dashboard with real-time AI insights.*
+- 💹 [AI Skin Analysis MVP Website](https://www.instagram.com/p/DPs-wdOgLDD/)  
+  *AI-powered skincare app with AR Before & After view and product recommendation system.*
 
 - 👨‍💻 [Frontend Coders Hangout](https://frontend-codershangout.vercel.app)  
   *Community platform for devs, with code editor to write and publish code.*
