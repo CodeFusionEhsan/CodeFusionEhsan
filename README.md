@@ -36,7 +36,6 @@ Crafting intelligent web solutions with a blend of code and AI magic.
 - **Frameworks/Libraries:** MERN (MongoDB, Express, React, Node), Next.js, Nest.js, Django, Tailwind CSS, Framer Motion
 - **Databases:** PostgreSQL, MongoDB, Prisma ORM
 - **Tools & DevOps:** Docker, Hardhat, Vercel, Apache Kafka
-- **AI/NLP:** TensorFlow, PyTorch, NLTK, spaCy, Custom ML models
 
 ---
 
